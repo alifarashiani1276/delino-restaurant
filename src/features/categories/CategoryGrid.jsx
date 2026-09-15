@@ -3,7 +3,7 @@ import { favoriteCategories } from "./categoriesData";
 
 // دسته‌بندی‌هایی که در categoriesData.js فیلد "ingredient" ندارن، فعلاً صفحه‌ی
 // اختصاصی خودشون آماده نیست؛ طبق درخواست، این‌ها با کلیک به صفحه‌ی
-// "غذا های گوشتی" (ingredient: lamb) هدایت می‌شن.
+// "غذا های گوشتی" (ingredient: lamb) هدایت می‌شن. 
 const FALLBACK_INGREDIENT = "lamb";
 
 export default function CategoryGrid() {
