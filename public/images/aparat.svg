@@ -1,0 +1,12 @@
+<!-- Aparat · light outline -->
+<svg width="24" height="24" viewBox="0 0 24 24" aria-label="Aparat" role="img"
+     xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect x="3.75" y="3.75" width="16.5" height="16.5" rx="5"
+        stroke="#ffffff" stroke-width="1.8"/>
+  <polygon points="10.5,8.8 15.6,12 10.5,15.2" fill="#ffffff"/>
+  <circle cx="7.2" cy="7.2" r="1.0" fill="#ffffff"/>
+  <circle cx="16.8" cy="7.2" r="1.0" fill="#ffffff"/>
+  <circle cx="7.2" cy="16.8" r="1.0" fill="#ffffff"/>
+  <circle cx="16.8" cy="16.8" r="1.0" fill="#ffffff"/>
+</svg>
+
